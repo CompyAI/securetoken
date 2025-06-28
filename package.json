@@ -1,0 +1,55 @@
+{
+  "name": "@compyai/securetoken",
+  "version": "1.5.1",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/basic.test.js"
+  },
+"keywords": [
+  "token",
+  "secure token",
+  "jwt alternative",
+  "access token",
+  "refresh token",
+  "session",
+  "authentication",
+  "auth",
+  "authorization",
+  "encryption",
+  "crypto",
+  "hmac",
+  "aes",
+  "session management",
+  "stateless auth",
+  "token rotation",
+  "revocable token",
+  "secure auth",
+  "honeypot",
+  "intrusion detection",
+  "anti tamper",
+  "ddos protection",
+  "secure session",
+  "nodejs security",
+  "compyai",
+  "securetoken",
+  "session toolkit",
+  "token management",
+  "nodejs auth",
+  "api security",
+  "pluggable store",
+  "redis token",
+  "refresh rotation",
+  "attack detection",
+  "security toolkit"
+],
+  "author": "Harsh",
+  "license": "MIT",
+  "description": "A modular, encrypted, DB-agnostic token system with optional refresh support, honeypot protection, and revocation. A secure alternative to JWT.",
+  "homepage": "https://compyai.xyz",
+  "peerDependencies": {
+    "ioredis": "^5.6.1"
+  }
+}

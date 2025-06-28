@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Except these files/folders:
+!src/
+!stores/
+!tests/
+!README.md
+!.env
+!package.json
+
